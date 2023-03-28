@@ -8,6 +8,7 @@ NOTE: Whenever you are writing a loop, check that you're initializing all the va
 
 ex: 
 
+
 x = 0
 while x < 5:
   print("Not there yet, x=" + str(x))
